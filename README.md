@@ -32,7 +32,7 @@ If no `requirements.txt` file is present, manually install the required packages
    To get started, clone the Valk.Zone-Script-Repo to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Valk.Zone-Script-Repo.git
+   git clone https://github.com/PDXF/Valk.Zone-Script-Repo
    cd Valk.Zone-Script-Repo
    ```
 
