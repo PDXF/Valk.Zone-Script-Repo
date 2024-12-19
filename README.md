@@ -64,12 +64,3 @@ If no `requirements.txt` file is present, manually install the required packages
 - **SSH Brute Force**: Test for weak SSH passwords on a target machine using a wordlist.
 
 Each script may come with a README or instructions specific to that script, explaining how to set it up and use it effectively.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Notes:
-- Replace `yourusername` with your actual GitHub username.
-- The `script_name.py` should be replaced with the actual name of the script you want to run.
